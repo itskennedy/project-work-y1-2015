@@ -23,4 +23,16 @@ Clean up data removing unrelated tweets and group it by date/region/country.
 
 ## Presentation
 
-Build a simple webapp to display results.
+Build a simple webapp to display results. Choose one of the following:
+
+### Implementation A: Web application MVC
+
+- create objects to load data from db (JDBC)
+- write some dynamic java pages to show data loaded from the DB 
+- implement some client feature to show the data in the best way 
+
+### Implementation B: Restful (for example https://spring.io/guides/gs/rest-service/)
+
+- create objects to load data from db (JDBC)
+- implement some servlet to give some json information loaded from db 
+- implement some client feature to get json info and show it the data in the best way
