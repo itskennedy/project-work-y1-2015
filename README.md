@@ -18,7 +18,16 @@ Raw data is stored in a local database for further analysis.
 
 ## Data cleanup and analysis
 
-Clean up data removing unrelated tweets and group it by date/region/country.
+Clean up data removing unrelated tweets.
+
+Group the tweets by months of the year/region/country of the last 2 years.
+Calculate the rate per month of any language considered and normalize
+the counted tweets, so that all languages together have a score of 100%.
+
+Determine the rate change of any language considered from the previous month.
+
+Determine the language with the greatest rate and the gratest rate change
+grouped by year/region/country.
 
 
 ## Presentation
