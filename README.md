@@ -36,6 +36,9 @@ Grouping the tweets by months of the year/state of the last 2 years implement th
 - Determine the rate change of any language considered from the previous month.
 - Determine the language with the greatest rate and the gratest rate change grouped by year/state.
 
+Optional: Analyze and implement some methodologies to weigh the tweet. 
+For example use the number of followers of the user.
+
 ## Presentation
 
 Build a webapp to display the results obtained from the data analysis.
